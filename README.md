@@ -1,2 +1,0 @@
-# Rakesh
-My First Repository
